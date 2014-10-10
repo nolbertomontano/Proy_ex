@@ -1,0 +1,7 @@
+nombre : jose angel 
+apellido : lopez alcaraz
+expediente : 209209347
+e-mail : joseangel_lopezalcaraz@gmail.com	
+este es nada mas para una simple verificacion 
+Profe espero que no me baje muchos puntos oks 
+
